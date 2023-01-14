@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": false
+		},
+		"liveServer.settings.multiRootWorkspaceName": "tracys-portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
